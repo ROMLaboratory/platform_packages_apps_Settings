@@ -4906,4 +4906,7 @@
     <!-- ROM Laboratories build Date -->
     <string name="build_date">ROM Laboratory release</string>
     <string name="build_date_default">Unknown</string>
+
+    <!-- App Ops -->
+    <string name="appops_settings_title">App Privacy</string>
 </resources>
