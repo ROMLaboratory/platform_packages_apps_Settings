@@ -4902,4 +4902,8 @@
 
     <!-- Text to display in regulatory info screen (from device overlay). -->
     <string name="regulatory_info_text"></string>
+
+    <!-- ROM Laboratories build Date -->
+    <string name="build_date">ROM Laboratory release</string>
+    <string name="build_date_default">Unknown</string>
 </resources>
