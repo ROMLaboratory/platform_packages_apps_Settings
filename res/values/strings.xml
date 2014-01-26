@@ -4909,4 +4909,7 @@
 
     <!-- App Ops -->
     <string name="appops_settings_title">App Privacy</string>
+  
+    <!-- Performance Control -->
+    <string name="performance_settings">Performance Control</string>
 </resources>
